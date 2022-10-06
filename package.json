@@ -3,6 +3,7 @@
     "description": "Interactive JavaScript Gantt chart/resource booking component",
     "version": "4.0.7-beta",
     "author": "Ante Novokmet <ante.je.zakon@gmail.com>",
+    "type": "module",
     "scripts": {
         "build": "rollup -c",
         "autobuild": "rollup -c -w",
